@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.container{
+    height: 100%;
+    width: 100%;
+    background: rgba(59, 138, 228, 0.15);
+}
+.title{
+    font-size: 22px;
+    text-align: center;
+    font-family: Roboto;
+    padding-top: 5%;
+}
+.description{
+    font-size: 15px;
+    text-align: center;
+    font-family: Roboto;
+}
+.survey-form{
+    font-size: 18px;
+    text-align: left;
+    font-family: Roboto;
+    background: rgba(7, 106, 131, 0.164);
+    margin-left:25%;
+    margin-right:25%;
+    margin-top:5%;
+    border-radius: 10px;
+}
+
+.form-group{
+    padding:7%;
+}
+
+#name{
+    width: 100%;
+    font-size: 18px;
+    border-radius: 6px;
+    border-color: white;
+}
+#email{
+    width: 100%;
+    font-size: 18px;
+    border-radius: 6px;
+    border-color: white;
+}
+#number{
+    width: 100%;
+    font-size: 18px;
+    border-radius: 6px;
+    border-color: white;
+}
+#dropdown{
+    width: 100%;
+    font-size: 18px;
+    border-radius: 6px;
+    border-color: white;
+}
+#features{
+    width: 100%;
+    font-size: 18px;
+    border-radius: 6px;
+    border-color: white;
+}
+#suggestions{
+    width: 100%;
+    font-size: 18px;
+    border-radius: 6px;
+    border-color: white;
+}
+#submit{
+    width: 100%;
+    font-size: 18px;
+    border-radius: 6px;
+    border-color: white;
+}
